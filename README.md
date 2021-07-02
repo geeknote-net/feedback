@@ -6,4 +6,4 @@
 
 在 https://github.com/geeknote-net/feedback/discussions 发表意见建议。
 
-祝使用愉快！
+使用愉快！
